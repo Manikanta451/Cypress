@@ -1,0 +1,9 @@
+{
+  "defaultCommandTimeout": 8000,
+  "chromeWebSecurity": false,
+  "pageLoadTimeout": 300000,
+  "env": {
+    "url": "http://localhost:8181/doccept/#/login"
+  },
+  "projectId": "u3krez"
+}
